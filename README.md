@@ -1,4 +1,4 @@
-Car Price Analysis: Predicting Car Values with Machine Learning
+#Car Price Analysis: Predicting Car Values with Machine Learning
 
 This project uses machine learning techniques to analyze factors influencing car prices and predict vehicle values based on mileage, condition, make, and year. The analysis provides actionable insights for both car buyers and sellers by identifying key trends and building a predictive model.
 Project Highlights
